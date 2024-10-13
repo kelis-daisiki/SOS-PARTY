@@ -1,0 +1,25 @@
+.背景图{
+				height: 100%;
+				background-color: antiquewhite;
+				width: 100%;
+				position: relative;
+				
+			}
+/* .背景图 .lianggong-1 {
+		left: 300px;
+		position: absolute;
+
+} */
+.背景图 .shijiuliu-1{
+	right: 0px;
+	top: 290px;
+	position: absolute;
+}
+
+.背景图 .changmengyouxi-1{
+	left: 0px;
+	top: 290px;
+	position: absolute;
+}
+
+		
